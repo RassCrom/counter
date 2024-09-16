@@ -1,6 +1,6 @@
 {
   "name": "counter",
-  "homepage": "",
+  "homepage": "https://rasscrom.github.io/counter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
